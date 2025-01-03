@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Jalal-Hatamleh/Creating-VMs-in-Azure/blob/main/images/1.png?raw=true" alt="Installation Screenshot"/>
+</p>
+
 # Creating Virtual Machines and Storage Containers in Azure
 
 In this project, I worked on creating a **Resource Group** and setting up a **Storage Container** within it in Microsoft Azure. This hands-on lab helped me get familiar with Azure's cloud environment and allowed me to manage files and resources easily.
