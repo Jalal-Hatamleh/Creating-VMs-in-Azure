@@ -10,7 +10,7 @@ In this project, I worked on creating a **Resource Group** and setting up a **St
 
 - **Cloud Platform**: Microsoft Azure (Virtual Machines / Compute)
 - **Remote Desktop**: For connecting to Azure VMs
-- **Operating System**: Windows 10 (21H2)
+- **Operating System**: Windows 10 Pro (Version 22H2)
 
 ## Steps
 
@@ -24,8 +24,7 @@ Here’s what I did:
 3. Clicked **Create**, named the group, and selected the region.
 4. Once everything was reviewed, I hit **Create**.
 
-![Create Resource Group](image-path)  
-_**Image**: Screenshot of creating a Resource Group in Azure._
+![Create Resource Group](https://github.com/Jalal-Hatamleh/Creating-VMs-in-Azure/blob/main/images/2.png?raw=true)  
 
 ### 2. Create a Storage Container in the Resource Group
 
@@ -37,8 +36,8 @@ Here’s how I set it up:
 3. After the account was created, I opened it and navigated to **Containers** under the **Blob service**.
 4. I clicked **+ Container** to set up a new storage container for my files.
 
-![Create Storage Container](image-path)  
-_**Image**: Screenshot of creating a storage container._
+![Create Storage Container](https://github.com/Jalal-Hatamleh/Creating-VMs-in-Azure/blob/main/images/3.png?raw=true)  
+
 
 ### 3. Upload a Plain Text File
 
@@ -49,8 +48,8 @@ Steps I followed:
 2. Went to the storage container in the Azure portal.
 3. Clicked **Upload**, selected the file from my desktop, and uploaded it.
 
-![Upload File](image-path)  
-_**Image**: Screenshot of uploading a file._
+![Upload File](https://github.com/Jalal-Hatamleh/Creating-VMs-in-Azure/blob/main/images/4.png?raw=true)  
+
 
 ### 4. Edit and Download the File in Azure
 
@@ -61,8 +60,8 @@ Here’s what I did:
 2. Clicked **Edit** to make changes directly in the portal.
 3. Saved the changes and then downloaded the file to confirm the edits worked.
 
-![Edit and Download File](image-path)  
-_**Image**: Screenshot of editing and downloading the file._
+![Edit and Download File](https://github.com/Jalal-Hatamleh/Creating-VMs-in-Azure/blob/main/images/5.png?raw=true)  
+
 
 ### 5. Delete the Resource Group to Prevent Ongoing Costs
 
@@ -73,8 +72,6 @@ Steps to delete:
 2. Selected the Resource Group I created.
 3. Clicked **Delete Resource Group** and confirmed the action.
 
-![Delete Resource Group](image-path)  
-_**Image**: Screenshot of deleting the Resource Group._
 
 ## Key Takeaways
 
